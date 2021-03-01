@@ -11,7 +11,7 @@ namespace HelloWorld
         public int age = 100;
         public string name = "shyam";
     }
-    class Serialization
+    class BinarySerialization
     {
         public void SerializeNow()
         {
@@ -32,8 +32,8 @@ namespace HelloWorld
         }
         static void Main(string[] args)
         {
-            Serialization obj = new Serialization();
-            //obj.SerializeNow();
+            SoapSerialization obj = new SoapSerialization();
+            obj.SerializeNow();
             obj.DeSerializeNow();
         }
     }
