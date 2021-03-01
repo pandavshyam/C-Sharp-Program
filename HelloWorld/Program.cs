@@ -4,7 +4,7 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main(string[] args)
+        static void NotMain(string[] args)
         {
             // Printing Hello World
             Console.WriteLine("Hello World!");
