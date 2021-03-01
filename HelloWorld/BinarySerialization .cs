@@ -30,11 +30,5 @@ namespace HelloWorld
             Console.WriteLine(c.name);
             s.Close();
         }
-        static void Main(string[] args)
-        {
-            SoapSerialization obj = new SoapSerialization();
-            obj.SerializeNow();
-            obj.DeSerializeNow();
-        }
     }
 }

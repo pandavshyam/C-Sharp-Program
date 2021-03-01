@@ -2,9 +2,9 @@
 
 namespace HelloWorld
 {
-    class Program
+    class BasicDatatypes
     {
-        static void NotMain(string[] args)
+        public void BasicDatatypesHandler()
         {
             // Printing Hello World
             Console.WriteLine("Hello World!");
