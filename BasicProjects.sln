@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic Codes", "HelloWorld\B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp-Introduction", "C-Sharp-Introduction\C-Sharp-Introduction.csproj", "{2BC7E3F9-88B1-40E9-84A2-050B3C0A55A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedPrograms", "ObjectOrientedPrograms\ObjectOrientedPrograms.csproj", "{01314CE5-9DCC-4F24-B4A0-64C756F5F618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{8E243342-1073-4452-86F1-E2DDCDCBFE2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2BC7E3F9-88B1-40E9-84A2-050B3C0A55A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC7E3F9-88B1-40E9-84A2-050B3C0A55A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC7E3F9-88B1-40E9-84A2-050B3C0A55A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01314CE5-9DCC-4F24-B4A0-64C756F5F618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01314CE5-9DCC-4F24-B4A0-64C756F5F618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01314CE5-9DCC-4F24-B4A0-64C756F5F618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01314CE5-9DCC-4F24-B4A0-64C756F5F618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E243342-1073-4452-86F1-E2DDCDCBFE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E243342-1073-4452-86F1-E2DDCDCBFE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E243342-1073-4452-86F1-E2DDCDCBFE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E243342-1073-4452-86F1-E2DDCDCBFE2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
