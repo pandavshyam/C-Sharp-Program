@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C_Sharp_Introduction.Problem2</StartupObject>
+    <StartupObject>C_Sharp_Introduction.Problem4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="Problem1.cs" />
     <Compile Include="Problem2.cs" />
+    <Compile Include="Problem3.cs" />
+    <Compile Include="Problem4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
