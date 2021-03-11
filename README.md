@@ -13,3 +13,6 @@ This directory contains basic C# Programs
   5. [Exception Handling - Both User Defined and System Provided](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/ExceptionHandling.cs)
   6. [Getters, Setters and Indexers](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/GettersAndSetters.cs)
   7. [Out Keyword](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/outKeyword.cs)
+  8. [Custom Sort on List of Object](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/CustomSortOnObject.cs)
+  9. [Dictionary Demo](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/DictionaryDemo.cs)
+  10. [File Stream Reading - CSV](https://github.com/pandavshyam/C-Sharp-Program/blob/master/HelloWorld/FileStreamOperation.cs)
