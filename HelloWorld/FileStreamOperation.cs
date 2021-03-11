@@ -1,4 +1,5 @@
-﻿using System;
+// This code will read CSV file which contain data of PlayerCLass object
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
